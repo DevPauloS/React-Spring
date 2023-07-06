@@ -51,7 +51,7 @@ export function CreateModal({ closeModal }: ModalProps) {
                 </div>
 
                 <form className="input-container">
-                    <Input label="title" value={title} updateValue={setTitle}></Input>
+                    <Input label="title" value={title} updateValue={setTitle} ></Input>
                     <Input label="price" value={price} updateValue={setPrice}></Input>
                     <Input label="image" value={image} updateValue={setImage}></Input>
                 </form>

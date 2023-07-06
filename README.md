@@ -1,5 +1,6 @@
 # Cardapio
-[![NPM](https://github.com/DevPauloS/React-Spring/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DevPauloS/React-Spring/blob/main/LICENSE)
+
 
 ## Sobre
 A aplicação é uma forma de fazer a inserção dinâmica de pratos, preços e imagens, obtendo uma praticidade na hora de demonstrar o menu ao cliente.

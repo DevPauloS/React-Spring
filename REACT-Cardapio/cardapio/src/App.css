@@ -12,7 +12,7 @@
     gap: 16px;
 }
   
-.container button {
+.container .btn-secondary {
     background-color: #0275d8;
     color: white;
     font-weight: bold;
@@ -25,4 +25,15 @@
 .container button:hover {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 7px 0px;
     transform: scale(1.1);
+}
+#box-f{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.container .h2-titulo{
+    margin-right: 13em;
+}
+.container #btn-fechar{    
+    background-color: #0275d8;    
 }

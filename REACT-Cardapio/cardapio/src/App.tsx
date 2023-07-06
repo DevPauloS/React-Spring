@@ -24,7 +24,7 @@ function App() {
          )}
         </div>
          {isModalOpen && <CreateModal closeModal={handleOpenModal} />} 
-         <button onClick={handleOpenModal}>Novo</button>        
+         <button onClick={handleOpenModal} className='btn-secondary btn-novo'>Novo</button>               
       </div>
         
   )

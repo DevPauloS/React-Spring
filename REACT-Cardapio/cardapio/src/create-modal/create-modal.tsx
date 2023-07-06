@@ -39,13 +39,17 @@ export function CreateModal({ closeModal }: ModalProps) {
     }
     useEffect(() => {
         if (!isSuccess) return
-        closeModal();        
+        closeModal();
     }, [isSuccess])
 
     return (
         <div className="modal-overlay">
             <div className="modal-body">
-                <h2>cadastre um novo item no cardápio</h2>
+                <div id="box-f">
+                    <h2 className="h2-titulo">Cadastre um novo prato ao cardápio</h2>
+                    <button id="btn-fechar" onClick={closeModal}>x</button>
+                </div>
+
                 <form className="input-container">
                     <Input label="title" value={title} updateValue={setTitle}></Input>
                     <Input label="price" value={price} updateValue={setPrice}></Input>

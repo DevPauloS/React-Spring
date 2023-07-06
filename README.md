@@ -1,4 +1,4 @@
-# Cardapio
+# Cardápio
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DevPauloS/React-Spring/blob/main/LICENSE)
 
 
@@ -6,7 +6,7 @@
 A aplicação é uma forma de fazer a inserção dinâmica de pratos, preços e imagens, obtendo uma praticidade na hora de demonstrar o menu ao cliente.
 
 ## Principal Funcionalidade
-- Tem por principal função demonstrar os pratos que estão contidos no banco de dados através de uma API em Java(SpringBoot), servindo o front-end que está desenvolvido em TypeScript e com biblioteca React, Lombok, ReactQuery.
+- A principal função demonstrar os pratos que estão contidos no banco de dados através de uma API em Java(SpringBoot), servindo o front-end que está desenvolvido em TypeScript e com biblioteca React, Lombok, ReactQuery.
 
 ## Gráfico do Sistema
 ### Tela Cardápio sem API

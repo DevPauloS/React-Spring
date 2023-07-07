@@ -29,3 +29,6 @@ A aplicação é uma forma de fazer a inserção dinâmica de pratos, preços e 
 
 ## Autor
 Paulo Soares (https://linktr.ee/paulosfreitas)
+
+#### Apoio
+Fernanda Kipper
